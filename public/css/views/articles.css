@@ -1,7 +1,13 @@
 h1 {
     text-align:center
 }
+h2 {
+    text-align:left;
+    color: purple;
+    font-size: 35px;
+}
 
 ul.articles li:not(:last-child) {
-    border-bottom:1px solid #ccc
+    text-align: left;
+    border-bottom:3px solid #ccc;
 }

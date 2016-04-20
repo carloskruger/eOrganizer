@@ -20,6 +20,17 @@ footer {
     box-shadow:0 8px 6px 6px black
 }
 
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
 footer p {
     padding:5px 0 12px 10px
 }
